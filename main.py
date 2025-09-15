@@ -324,7 +324,7 @@ async def get_top_news_get(
 import urllib.parse
 
 
-@app.get("/search_audiobooks/")
+@app.get("/search_audiobooks")
 async def search_audiobooks(
     title: str | None = Query(default=None),
     genre: str | None = Query(default=None),
