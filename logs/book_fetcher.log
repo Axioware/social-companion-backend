@@ -1,0 +1,36 @@
+2025-09-11 16:38:30 | INFO | 🔍 Fetching book metadata for ID: 1342
+2025-09-11 16:38:30 | INFO | 📡 Request URL: https://gutendex.com/books/1342/
+2025-09-11 16:38:31 | INFO | ✅ Successfully fetched metadata for: Pride and Prejudice
+2025-09-11 16:38:31 | INFO | 🔍 Fetching book metadata for ID: 1342
+2025-09-11 16:38:31 | INFO | 📡 Request URL: https://gutendex.com/books/1342/
+2025-09-11 16:38:31 | INFO | ✅ Successfully fetched metadata for: Pride and Prejudice
+2025-09-11 16:38:31 | INFO | 📄 Found plain text URL: text/plain; charset=us-ascii
+2025-09-11 16:38:31 | INFO | 📖 Fetching book content from: https://www.gutenberg.org/ebooks/1342.txt.utf-8
+2025-09-11 16:38:36 | INFO | ✅ Successfully fetched book content (763033 characters)
+2025-09-11 16:38:36 | INFO | 💾 Book content saved to: book_1342_Pride_and_Prejudice.txt
+2025-09-11 16:38:36 | INFO | 🔍 Searching for books: 'Austen'
+2025-09-11 16:38:38 | INFO | ✅ Found 32 books matching 'Austen'
+2025-09-11 16:39:48 | INFO | 🔍 Fetching book metadata for ID: 1342
+2025-09-11 16:39:48 | INFO | 📡 Request URL: https://gutendex.com/books/1342/
+2025-09-11 16:39:49 | INFO | ✅ Successfully fetched metadata for: Pride and Prejudice
+2025-09-11 16:39:49 | INFO | 🔍 Fetching book metadata for ID: 1342
+2025-09-11 16:39:49 | INFO | 📡 Request URL: https://gutendex.com/books/1342/
+2025-09-11 16:39:49 | INFO | ✅ Successfully fetched metadata for: Pride and Prejudice
+2025-09-11 16:39:49 | INFO | 📄 Found plain text URL: text/plain; charset=us-ascii
+2025-09-11 16:39:49 | INFO | 📖 Fetching book content from: https://www.gutenberg.org/ebooks/1342.txt.utf-8
+2025-09-11 16:39:53 | INFO | ✅ Successfully fetched book content (763033 characters)
+2025-09-11 16:39:53 | INFO | 💾 Book content saved to: book_1342_Pride_and_Prejudice.txt
+2025-09-11 16:39:53 | INFO | 🔍 Searching for books: 'Austen'
+2025-09-11 16:39:58 | INFO | ✅ Found 32 books matching 'Austen'
+2025-09-11 16:41:04 | INFO | 🔍 Fetching book metadata for ID: 1342
+2025-09-11 16:41:04 | INFO | 📡 Request URL: https://gutendex.com/books/1342/
+2025-09-11 16:41:05 | INFO | ✅ Successfully fetched metadata for: Pride and Prejudice
+2025-09-11 16:41:05 | INFO | 🔍 Fetching book metadata for ID: 1342
+2025-09-11 16:41:05 | INFO | 📡 Request URL: https://gutendex.com/books/1342/
+2025-09-11 16:41:06 | INFO | ✅ Successfully fetched metadata for: Pride and Prejudice
+2025-09-11 16:41:06 | INFO | 📄 Found plain text URL: text/plain; charset=us-ascii
+2025-09-11 16:41:06 | INFO | 📖 Fetching book content from: https://www.gutenberg.org/ebooks/1342.txt.utf-8
+2025-09-11 16:41:10 | INFO | ✅ Successfully fetched book content (763033 characters)
+2025-09-11 16:41:10 | INFO | 💾 Book content saved to: book_1342_Pride_and_Prejudice.txt
+2025-09-11 16:41:10 | INFO | 🔍 Searching for books: 'Austen'
+2025-09-11 16:41:20 | INFO | ✅ Found 32 books matching 'Austen'
