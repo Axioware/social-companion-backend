@@ -30,7 +30,8 @@ logger.add(
 app = FastAPI(
     title="Social Companionship API",
     description="News and Audiobook API for Social Companionship Agent",
-    version="1.0.0"
+    version="1.0.0",
+    redirect_slashes=False  # disables 301 redirect for missing or extra trailing slash
 )
 
 # Initialize services
