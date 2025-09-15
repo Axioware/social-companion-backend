@@ -45,8 +45,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Mount static files
-app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Add request logging middleware
 @app.middleware("http")
