@@ -2516,3 +2516,749 @@ categories
 2025-09-15 16:10:28 | INFO | 📰 Story 15: Brit travel warning as 'indefinite' strike sparks chaos at Spain's biggest airport with 'endless queues' and delays | Source: The Sun | Published: 23 hours ago
 2025-09-15 16:10:28 | INFO | 📰 Story 16: Blast in Madrid, Spain wounds 21, three seriously | Source: The Jerusalem Post | Published: 1 day ago
 2025-09-15 16:10:28 | INFO | 📰 Story 17: Spain Wants to Save Rural Areas — and It’s Finding Creative Ways to Do It | Source: Bloomberg.com | Published: 2 days ago
+2025-09-19 00:58:22 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "Spain national news today"}
+2025-09-19 00:58:22 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain national news today', 'limit': 3}
+2025-09-19 00:58:22 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain national news today', limit=3
+2025-09-19 00:58:22 | INFO | 🎯 Using direct query: 'Spain national news today'
+2025-09-19 00:58:22 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 00:58:22 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain national news today', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 00:58:24 | INFO | 📡 Response status: 200
+2025-09-19 00:58:24 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 00:58:24 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 00:58:24 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 00:58:24 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 00:58:24 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 00:58:24 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 00:58:24 | INFO | 📰 Story 1: Spain National Team Top FIFA World Rankings In Men’s And Women’s Soccer | Source: Forbes | Published: 8 hours ago
+2025-09-19 00:58:24 | INFO | 📰 Story 2: Spanish national broadcaster officially votes to boycott Eurovision over Israel | Source: Middle East Eye | Published: 2 days ago
+2025-09-19 00:58:24 | INFO | 📰 Story 3: American hiker missing in Spain is found dead | Source: NBC News | Published: 1 month ago
+2025-09-19 00:59:33 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "United States sports news today"}
+2025-09-19 00:59:33 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'United States sports news today', 'limit': 3}
+2025-09-19 00:59:33 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'United States sports news today', limit=3
+2025-09-19 00:59:33 | INFO | 🎯 Using direct query: 'United States sports news today'
+2025-09-19 00:59:33 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 00:59:33 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'United States sports news today', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 00:59:34 | INFO | 📡 Response status: 200
+2025-09-19 00:59:34 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 00:59:34 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 00:59:34 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 00:59:34 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 00:59:34 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 00:59:34 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 00:59:34 | INFO | 📰 Story 1: Top 50 news websites in the US in August: Substack leads just five sites with year-on-year growth | Source: Press Gazette | Published: 3 days ago
+2025-09-19 00:59:34 | INFO | 📰 Story 2: FOX One Launches Today — Stream FOX Live News, Sports & Entertainment Shows | Source: FOX Sports | Published: 4 weeks ago
+2025-09-19 00:59:34 | INFO | 📰 Story 3: Breaking down the United States side of the bracket | Source: sungazette.com | Published: 1 month ago
+2025-09-19 01:00:15 | INFO | 🔍 Raw POST body: {"limit": "8", "q": "United States business news today"}
+2025-09-19 01:00:15 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'United States business news today', 'limit': 8}
+2025-09-19 01:00:15 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'United States business news today', limit=8
+2025-09-19 01:00:15 | INFO | 🎯 Using direct query: 'United States business news today'
+2025-09-19 01:00:15 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 01:00:15 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'United States business news today', 'num': 8, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 01:00:16 | INFO | 📡 Response status: 200
+2025-09-19 01:00:16 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 01:00:16 | INFO | 📰 Parsed 8 articles from API
+2025-09-19 01:00:16 | INFO | 📅 Sorted 8 articles by date (most recent first)
+2025-09-19 01:00:16 | INFO | ✅ Converted 8 articles, sorted by date
+2025-09-19 01:00:16 | INFO | ✅ POST /api/v1/news/top - Found 8 stories
+2025-09-19 01:00:16 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=8
+2025-09-19 01:00:16 | INFO | 📰 Story 1: US firms pledge £150bn investment in UK as tech deal signed | Source: BBC | Published: 6 hours ago
+2025-09-19 01:00:16 | INFO | 📰 Story 2: PM's remarks at the State Visit business event: 18 September 2025 | Source: GOV.UK | Published: 7 hours ago
+2025-09-19 01:00:16 | INFO | 📰 Story 3: Trump's UK visit brings flurry of trade announcements as US-India talk tariffs | Source: Yahoo Finance | Published: 1 day ago
+2025-09-19 01:00:16 | INFO | 📰 Story 4: Top 50 news websites in the US in August: Substack leads just five sites with year-on-year growth | Source: Press Gazette | Published: 3 days ago
+2025-09-19 01:00:16 | INFO | 📰 Story 5: Job Market’s Effect on the Economy | Source: U.S. Bank | Published: 1 week ago
+2025-09-19 01:00:16 | INFO | 📰 Story 6: U.S. takes 10% stake in Intel, Trump says | Source: NBC News | Published: 4 weeks ago
+2025-09-19 01:00:16 | INFO | 📰 Story 7: The Rule of Law is Key to Capitalism − Eroding it is Bad News for American Business | Source: UConn Today | Published: 2 months ago
+2025-09-19 01:00:16 | INFO | 📰 Story 8: What’s happening this week in economics? | Source: Deloitte | Published: 3 months ago
+2025-09-19 13:36:12 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "Spain national news today"}
+2025-09-19 13:36:12 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain national news today', 'limit': 3}
+2025-09-19 13:36:12 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain national news today', limit=3
+2025-09-19 13:36:12 | INFO | 🎯 Using direct query: 'Spain national news today'
+2025-09-19 13:36:12 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 13:36:12 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain national news today', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 13:36:14 | INFO | 📡 Response status: 200
+2025-09-19 13:36:14 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 13:36:14 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 13:36:14 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 13:36:14 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 13:36:14 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 13:36:14 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 13:36:14 | INFO | 📰 Story 1: Spain National Team Top FIFA World Rankings In Men’s And Women’s Soccer | Source: Forbes | Published: 21 hours ago
+2025-09-19 13:36:14 | INFO | 📰 Story 2: Spanish national broadcaster officially votes to boycott Eurovision over Israel | Source: Middle East Eye | Published: 2 days ago
+2025-09-19 13:36:14 | INFO | 📰 Story 3: Bulgaria vs Spain: World Cup qualifiers – teams, start, lineup | Source: Al Jazeera | Published: 2 weeks ago
+2025-09-19 13:36:25 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "United States business news today"}
+2025-09-19 13:36:25 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'United States business news today', 'limit': 3}
+2025-09-19 13:36:25 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'United States business news today', limit=3
+2025-09-19 13:36:25 | INFO | 🎯 Using direct query: 'United States business news today'
+2025-09-19 13:36:25 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 13:36:25 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'United States business news today', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 13:36:27 | INFO | 📡 Response status: 200
+2025-09-19 13:36:27 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 13:36:27 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 13:36:27 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 13:36:27 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 13:36:27 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 13:36:27 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 13:36:27 | INFO | 📰 Story 1: UK State Visit Updates: Trump and Starmer Expected to Announce Big Business Deals | Source: The New York Times | Published: 16 hours ago
+2025-09-19 13:36:27 | INFO | 📰 Story 2: Trump tariffs live updates: China drops Google probe as focus turns to Nvidia, TikTok | Source: Yahoo Finance | Published: 21 hours ago
+2025-09-19 13:36:27 | INFO | 📰 Story 3: Top 50 news websites in the US in August: Substack leads just five sites with year-on-year growth | Source: Press Gazette | Published: 4 days ago
+2025-09-19 13:45:13 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "Spain national news today"}
+2025-09-19 13:45:13 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain national news today', 'limit': 3}
+2025-09-19 13:45:13 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain national news today', limit=3
+2025-09-19 13:45:13 | INFO | 🎯 Using direct query: 'Spain national news today'
+2025-09-19 13:45:13 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 13:45:13 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain national news today', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 13:45:13 | INFO | 📡 Response status: 200
+2025-09-19 13:45:13 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 13:45:13 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 13:45:13 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 13:45:13 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 13:45:13 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 13:45:13 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 13:45:13 | INFO | 📰 Story 1: Spain National Team Top FIFA World Rankings In Men’s And Women’s Soccer | Source: Forbes | Published: 21 hours ago
+2025-09-19 13:45:13 | INFO | 📰 Story 2: Spanish national broadcaster officially votes to boycott Eurovision over Israel | Source: Middle East Eye | Published: 2 days ago
+2025-09-19 13:45:13 | INFO | 📰 Story 3: Bulgaria vs Spain: World Cup qualifiers – teams, start, lineup | Source: Al Jazeera | Published: 2 weeks ago
+2025-09-19 15:05:17 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "latest Spain national news"}
+2025-09-19 15:05:17 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'latest Spain national news', 'limit': 3}
+2025-09-19 15:05:17 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'latest Spain national news', limit=3
+2025-09-19 15:05:17 | INFO | 🎯 Using direct query: 'latest Spain national news'
+2025-09-19 15:05:17 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:05:17 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'latest Spain national news', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:05:18 | INFO | 📡 Response status: 200
+2025-09-19 15:05:18 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:05:18 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 15:05:18 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 15:05:18 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 15:05:18 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 15:05:18 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 15:05:18 | INFO | 📰 Story 1: Montse Tome: Spain part ways with head coach and appoint Sonia Bermudez as successor | Source: BBC | Published: 1 month ago
+2025-09-19 15:05:18 | INFO | 📰 Story 2: Euro 2025 final buildup as England prepare to take on Spain: football news – as it happened | Source: The Guardian | Published: 1 month ago
+2025-09-19 15:05:18 | INFO | 📰 Story 3: Rafa Nadal takes new role in Spain's National Olympic Committee | Source: Olympics.com | Published: 3 months ago
+2025-09-19 15:06:30 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "Spain national news"}
+2025-09-19 15:06:30 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain national news', 'limit': 3}
+2025-09-19 15:06:30 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain national news', limit=3
+2025-09-19 15:06:30 | INFO | 🎯 Using direct query: 'Spain national news'
+2025-09-19 15:06:30 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:06:30 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain national news', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:06:32 | INFO | 📡 Response status: 200
+2025-09-19 15:06:32 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:06:32 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 15:06:32 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 15:06:32 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 15:06:32 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 15:06:32 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 15:06:32 | INFO | 📰 Story 1: Spain National Team Top FIFA World Rankings In Men’s And Women’s Soccer | Source: Forbes | Published: 23 hours ago
+2025-09-19 15:06:32 | INFO | 📰 Story 2: Spain Threaten 2026 World Cup Boycott as FIFA Sent Warning | Source: SPORTbible | Published: 1 day ago
+2025-09-19 15:06:32 | INFO | 📰 Story 3: Spain threatens to boycott 2026 World Cup, FIFA receives warning | Source: Gazeta Express | Published: 1 day ago
+2025-09-19 15:08:46 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "Spain business news latest"}
+2025-09-19 15:08:46 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain business news latest', 'limit': 3}
+2025-09-19 15:08:46 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain business news latest', limit=3
+2025-09-19 15:08:46 | INFO | 🎯 Using direct query: 'Spain business news latest'
+2025-09-19 15:08:46 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:08:46 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain business news latest', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:08:48 | INFO | 📡 Response status: 200
+2025-09-19 15:08:48 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:08:48 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 15:08:48 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 15:08:48 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 15:08:48 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 15:08:48 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 15:08:48 | INFO | 📰 Story 1: Car rental tech venture Final Rentals expands into Italy and Spain | Source: Business Live | Published: 2 hours ago
+2025-09-19 15:08:48 | INFO | 📰 Story 2: Final Rentals Expands into Spain and Italy with New Locations | Source: Business News Wales | Published: 1 day ago
+2025-09-19 15:08:48 | INFO | 📰 Story 3: Spain's Telefonica reshapes Latin America strategy after leadership change | Source: Reuters | Published: 3 months ago
+2025-09-19 15:10:06 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "noticias deportivas de Espa\u00f1a hoy"}
+2025-09-19 15:10:06 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias deportivas de España hoy', 'limit': 3}
+2025-09-19 15:10:06 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias deportivas de España hoy', limit=3
+2025-09-19 15:10:06 | INFO | 🎯 Using direct query: 'noticias deportivas de España hoy'
+2025-09-19 15:10:06 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:10:06 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias deportivas de España hoy', 'num': 3, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:10:07 | INFO | 📡 Response status: 200
+2025-09-19 15:10:07 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:10:07 | INFO | 📰 Parsed 3 articles from API
+2025-09-19 15:10:07 | INFO | 📅 Sorted 3 articles by date (most recent first)
+2025-09-19 15:10:07 | INFO | ✅ Converted 3 articles, sorted by date
+2025-09-19 15:10:07 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 15:10:07 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 15:10:07 | INFO | 📰 Story 1: El PSOE se abre a que España no juegue el Mundial de fútbol si se clasifica Israel: «Lo valoraremos» | Source: OkDiario | Published: 2 days ago
+2025-09-19 15:10:07 | INFO | 📰 Story 2: ¿Cuándo juega, cómo y dónde ver al Real Madrid? Día, hora, canal de TV y streaming online del partido vs. Espanyol por La Liga | Source: Sporting News | Published: 2 days ago
+2025-09-19 15:10:07 | INFO | 📰 Story 3: Jugadores actuales e históricos jugaron en FAS y Alianza | Source: elsalvador.com | Published: 4 weeks ago
+2025-09-19 15:11:23 | INFO | 🔍 Raw POST body: {"limit": "5", "q": "noticias deportivas de Espa\u00f1a hoy"}
+2025-09-19 15:11:23 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias deportivas de España hoy', 'limit': 5}
+2025-09-19 15:11:23 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias deportivas de España hoy', limit=5
+2025-09-19 15:11:23 | INFO | 🎯 Using direct query: 'noticias deportivas de España hoy'
+2025-09-19 15:11:23 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:11:23 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias deportivas de España hoy', 'num': 5, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:11:25 | INFO | 📡 Response status: 200
+2025-09-19 15:11:25 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:11:25 | INFO | 📰 Parsed 5 articles from API
+2025-09-19 15:11:25 | INFO | 📅 Sorted 5 articles by date (most recent first)
+2025-09-19 15:11:25 | INFO | ✅ Converted 5 articles, sorted by date
+2025-09-19 15:11:25 | INFO | ✅ POST /api/v1/news/top - Found 5 stories
+2025-09-19 15:11:25 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=5
+2025-09-19 15:11:25 | INFO | 📰 Story 1: El PSOE se abre a que España no juegue el Mundial de fútbol si se clasifica Israel: «Lo valoraremos» | Source: OkDiario | Published: 2 days ago
+2025-09-19 15:11:25 | INFO | 📰 Story 2: ¿Cuándo juega, cómo y dónde ver al Real Madrid? Día, hora, canal de TV y streaming online del partido vs. Espanyol por La Liga | Source: Sporting News | Published: 2 days ago
+2025-09-19 15:11:25 | INFO | 📰 Story 3: Jugadores actuales e históricos jugaron en FAS y Alianza | Source: elsalvador.com | Published: 4 weeks ago
+2025-09-19 15:11:25 | INFO | 📰 Story 4: Inglaterra 1 (3)-(1) 1 España: resumen, goles y resultado | Source: Diario AS | Published: 1 month ago
+2025-09-19 15:11:25 | INFO | 📰 Story 5: Así te hemos contado la victoria del Barcelona ante el Madrid en la final de la Supercopa | Source: EL PAÍS | Published: 8 months ago
+2025-09-19 15:15:38 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "Spain sports news"}
+2025-09-19 15:15:38 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain sports news', 'limit': 3}
+2025-09-19 15:15:38 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain sports news', limit=3
+2025-09-19 15:15:38 | INFO | 🎯 Using direct query: 'Spain sports news'
+2025-09-19 15:15:38 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:15:38 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain sports news', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:15:40 | INFO | 📡 Response status: 200
+2025-09-19 15:15:40 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:15:40 | INFO | 📰 Parsed 100 articles from API
+2025-09-19 15:15:40 | INFO | 📅 Sorted 100 articles by date (most recent first)
+2025-09-19 15:15:40 | INFO | ✅ Converted 100 articles, sorted by date
+2025-09-19 15:15:40 | INFO | ✅ POST /api/v1/news/top - Found 100 stories
+2025-09-19 15:15:40 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=100
+2025-09-19 15:15:40 | INFO | 📰 Story 1: Spain La Liga fixtures (5th matchday) - World - Sports | Source: Ahram Online | Published: 3 hours ago
+2025-09-19 15:15:40 | INFO | 📰 Story 2: Spain PM calls to ban Israel from sports | Source: Ynetnews | Published: 18 hours ago
+2025-09-19 15:15:40 | INFO | 📰 Story 3: Spain Threatens to Boycott 2026 FIFA World Cup if Israel Qualifies | Source: ProPakistani | Published: 22 hours ago
+2025-09-19 15:15:40 | INFO | 📰 Story 4: 6 in 10 buyers in Spain prioritise homes with pools, gardens or sports facilities | Source: Idealista | Published: 1 day ago
+2025-09-19 15:15:40 | INFO | 📰 Story 5: BJK Cup: Elina Svitolina and Marta Kostyuk help Ukraine beat Spain to reach semi-finals for first time | Source: BBC | Published: 1 day ago
+2025-09-19 15:15:40 | INFO | 📰 Story 6: Spain Threaten To Pull Out Of 2026 FIFA World Cup If Israel Qualifies: Report | Source: News18 | Published: 1 day ago
+2025-09-19 15:15:40 | INFO | 📰 Story 7: Spain Threaten 2026 World Cup Boycott as FIFA Sent Warning | Source: SPORTbible | Published: 1 day ago
+2025-09-19 15:15:40 | INFO | 📰 Story 8: Spain XI vs Turkiye – Predicted lineup and team news | Source: Yahoo Canada Sports | Published: 1 day ago
+2025-09-19 15:15:40 | INFO | 📰 Story 9: Spain XI vs Bulgaria – Predicted lineup and team news | Source: Yahoo Canada Sports | Published: 2 days ago
+2025-09-19 15:15:40 | INFO | 📰 Story 10: Spain’s sports council accuses cycling body of whitewashing Gaza genocide | Source: Anadolu Ajansı | Published: 2 days ago
+2025-09-19 15:15:40 | INFO | 📰 Story 11: Spanish PM calls for Israel to be barred from international sport | Source: BBC | Published: 3 days ago
+2025-09-19 15:15:40 | INFO | 📰 Story 12: Spanish minister calls for Israel to be banned from sport | Source: Al Jazeera | Published: 1 week ago
+2025-09-19 15:15:40 | INFO | 📰 Story 13: Preview: Turkey vs Spain - prediction, team news, lineups | Source: Sports Mole | Published: 2 weeks ago
+2025-09-19 15:15:40 | INFO | 📰 Story 14: Bulgaria vs Spain – Match preview and team news | Source: Yahoo Sports | Published: 2 weeks ago
+2025-09-19 15:15:40 | INFO | 📰 Story 15: Turkiye vs Spain – Match preview and team news | Source: Yahoo Canada Sports | Published: 2 weeks ago
+2025-09-19 15:15:40 | INFO | 📰 Story 16: New Zealand 54-8 Spain: Black Ferns start Women's Rugby World Cup defence with victory | Source: BBC | Published: 4 weeks ago
+2025-09-19 15:15:40 | INFO | 📰 Story 17: Mariona Caldentey: Spain and Arsenal's humble magician | Source: BBC | Published: 4 weeks ago
+2025-09-19 15:15:40 | INFO | 📰 Story 18: Spain replaces women's team coach Montse Tomé with Sonia Bermúdez | Source: thecanadianpressnews.ca | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 19: England Women 1-1 Spain Women (England win 3-1 on penalties): Chloe Kelly makes history again as Lionesses defend European title | Source: Sky Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 20: Marcus Rashford transfer news: Forward passes Barcelona medical before loan move from Manchester United | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 21: Reporter Notebook: England need their football to match their fight to have any hope against Spain | Source: Sky Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 22: Canadian winger Tajon Buchanan makes move to Spain's Villarreal permanent | Source: thecanadianpressnews.ca | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 23: Germany Women 0-1 Spain Women (AET): Aitana Bonmati sends Montse Tome's side to Euro 2025 final to play England | Source: Sky Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 24: Sports travel bucket list: Picos de Europa walking holiday in Spain | Source: Sports Tourism News | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 25: UEFA Women’s Euro 2025 Final England v Spain - How to watch live and follow across the BBC | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 26: Euro 2025 final: England Women vs Spain Women - A blueprint for how to beat 'incredible' La Roja | Source: Sky Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 27: Germany Women vs Spain Women LIVE! Women's Euros 2025 preview, team news, live blog, match updates | Source: Sky Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 28: LALIGA: Sky Sports secures highlights and clips rights for 2025/26 season | Source: Sky Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 29: 'A different world' - Spain's transformation after World Cup fallout | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 30: England v Spain: Lionesses 'have it inside them' to win final - Mariona Caldentey | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 31: Germany v Spain: Women's Euro 2025 semi-final key battles and what to watch | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 32: Montse Tome: Spain part ways with head coach and appoint Sonia Bermudez as successor | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 33: England v Spain: Euro 2025 showpiece brings repeat of World Cup final | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 34: Germany vs Spain: Women’s Euro preview, team news & predicted lineups | Source: Yahoo Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 35: UEFA Women's Euro semifinals schedule: England, Spain, Germany, Italy faceoff in semis ahead of Sunday final | Source: CBS Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 36: Euro 2025 final: England v Spain preview | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 37: Euro 2025 final: Recap England and Spain news conferences before Sunday's final | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 38: England vs. Spain prediction, start time, odds: 2025 UEFA Women's Euro final picks for Sunday, July 27 | Source: CBS Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 39: Women's Euro 2025 final: England stuns Spain in penalties to earn second straight Euro title | Source: Yahoo Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 40: Germany vs. Spain prediction, odds, start time: 2025 UEFA Women's Euro semifinal picks for Wednesday, July 23 | Source: CBS Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 41: How England beat Spain on penalties after 1-1 draw to retain their European Championship title - The Athletic | Source: The New York Times | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 42: Spain Replaces Women's Team Coach Montse Tomé With Sonia Bermúdez | Source: U.S. News & World Report | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 43: How England can beat Spain in Euro 2025 final | Source: BBC | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 44: England vs Spain: Women’s Euro 2025 final – teams, start, lineups | Source: Al Jazeera | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 45: Spain into Women's Euro final after edging Germany: Here's what England must do to stop World Cup champs | Source: CBS Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 46: Euro 2025 semifinals: Aitana Bonmatí's game-winner in extra time lifts Spain over Germany | Source: Yahoo Sports | Published: 1 month ago
+2025-09-19 15:15:40 | INFO | 📰 Story 47: Diogo Jota: Liverpool forward dies in car accident in Spain | Source: Sky Sports | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 48: Brighton news: Albion beat Stoke City 3-1 in friendly in Spain | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 49: Martin Zubimendi to Arsenal: Spain midfielder's quality and character make him one of world's best No 6s | Source: Sky Sports | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 50: Euro 2025: Spain can 'focus on winning' but is it new era? | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 51: Euro 2025: A guide to Group B with Spain, Portugal, Belgium and Italy | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 52: Salma Paralluelo: Spain star's journey to top and her struggle to find form for Euro 2025 | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 53: Euro 2025: Spain's Aitana Bonmati in hospital with viral meningitis | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 54: Switzerland v Spain preview: Hosts inspired by 2010 World Cup win before Euro 2025 quarter-final | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 55: Spain winger Nico Williams signs new 10-year deal with Athletic Bilbao | Source: BBC | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 56: Diogo Jota: Liverpool star dies after car crash in Spain | Source: Al Jazeera | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 57: Ranking potential Euro 2025 finals: England, Spain, Germany and Italy provide thrilling possibilities | Source: CBS Sports | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 58: USMNT outplayed by Mexico in Gold Cup final; Spain the team to beat at Euro 2025? | Source: CBS Sports | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 59: Euro 2025: Spain ruthlessly ends Switzerland’s spirited run in quarterfinals | Source: Yahoo Sports | Published: 2 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 60: Portugal win UEFA Nations League for the second time, beat Spain on penalties in final | Football News | Source: Hindustan Times | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 61: Cristiano Ronaldo breaks down, cries like a baby after Portugal beat Spain on penalties to win UEFA Nations League | Football News | Source: Hindustan Times | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 62: UEFA Nations League 2025 Final: When and where to watch title clash between Portugal and Spain in India | Source: Times of India | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 63: What do Portugal get for winning the Nations League? | Source: BBC | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 64: Spain vs France UEFA Nations League semi-final live time, streaming | Source: Business Standard | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 65: Spain vs France: All eyes on Yamal and Doue in generational clash | Source: Business Standard | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 66: Watch: Cristiano Ronaldo breaks down in tears, falls to knees after Portugal beat Spain in Nations League | Source: Times of India | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 67: Portugal vs Spain UEFA Nations League final: When and where to watch | Source: Deccan Herald | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 68: 'I have a clear conscience' - Hermoso left out of Spain Euros squad | Source: BBC | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 69: Nations League final: Portugal 2-2 Spain (5-3 pens) - Cristiano Ronaldo helps Portugal to reclaim title | Source: Sky Sports | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 70: Spain 5-4 France: Lamine Yamal scores twice in nine-goal thriller to fire his side into Nations League final | Source: Sky Sports | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 71: Trent Alexander-Arnold: New Real Madrid signing speaks Spanish at unveiling after move from Liverpool | Source: Sky Sports | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 72: Nations League final 2025: When do Spain face Portugal? | Source: BBC | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 73: The tiny sport stirring up a big controversy in Spain | Source: The Independent | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 74: 'Let him grow' - Ronaldo and Yamal to meet on Sunday | Source: BBC | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 75: Where to watch Portugal vs. Spain, live stream: UEFA Nations League final prediction, odds, pick, lineups, TV | Source: CBS Sports | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 76: Serena Williams awarded Spain’s Princess of Asturias Prize for Sports | Source: AP News | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 77: Portugal beat Spain 5-3 on penalties: Nations League final – as it happened | Source: Al Jazeera | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 78: Yamal Outshines Ballon D’Or Contenders as Spain Beats France 5-4 in Nations League Semifinal | Source: U.S. News & World Report | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 79: Small sport stirs up controversy in Spain as Basque Country makes its international debut | Source: AP News | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 80: Nations League final: Spain-Portugal more than Yamal battle, says Ronaldo | Source: Al Jazeera | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 81: Watch: New Real Madrid signing arrives in Spain | Source: Yahoo Sports | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 82: Spain plays France in UEFA Nations League: Start time, team news, lineups | Source: Al Jazeera | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 83: Students Explore Global Sport Industry in Spain | Source: UA News Center | Published: 3 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 84: UEFA confirms Spain vs Argentina Finalissima with Lionel Messi vs Lamine Yamal clash | Source: Times of India | Published: 4 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 85: Spain set to face Argentina in 2026 Finalissima as FIFA announces late-March window | Source: Times of India | Published: 4 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 86: Nico Williams: The rise of Athletic Club and Spain winger who could be set for the Premier League this summer | Source: Sky Sports | Published: 4 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 87: Out of Bounds: Major sports news out of Germany, Spain and London | Source: Washington Square News | Published: 4 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 88: UEFA Nations League: Spain edge Netherlands on penalties, set up France semi-final | Source: Times of India | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 89: Spain Emerges as a Global Powerhouse in Sports Tourism with Explosive Growth Projected to Surpass Nearly Sixty Five Billion Dollars by 2034 | Source: Travel And Tour World | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 90: Netherlands vs. Spain - Final Score - March 20, 2025 | Source: FOX Sports | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 91: Spain XI vs Netherlands – Predicted lineup and team news | Source: Yahoo Canada Sports | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 92: Spain vs. Netherlands odds, where to watch, live stream: UEFA Nations League pick, predicted lineups | Source: CBS Sports | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 93: Out of Bounds: Major sports news out of Australia, Spain and the UK | Source: Washington Square News | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 94: Out of Bounds: Major sports news out of the UK, France and Spain | Source: Washington Square News | Published: 5 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 95: Spain Sports Tourism Boom Reaches Record Highs as Real Madrid vs Girona FC Match Draws Global Tourists, Boosting Travel | Source: Travel And Tour World | Published: 6 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 96: Jenni Hermoso – record goalscorer, serial swearer and an icon of Spanish sport | Source: The New York Times | Published: 7 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 97: Spanish NOC News | Source: Olympics.com | Published: 7 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 98: Out of Bounds: Major sports news out of Spain, France and Argentina | Source: Washington Square News | Published: 7 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 99: What a Clasico Supercopa in Jeddah tells us about the relationship between Spain and Saudi Arabia - The Athletic | Source: The New York Times | Published: 8 months ago
+2025-09-19 15:15:40 | INFO | 📰 Story 100: Spain Accused of Transphobia Over Trans Women Sports Ban Proposal | Source: Newsweek | Published: 9 months ago
+2025-09-19 15:18:08 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "United States business news"}
+2025-09-19 15:18:08 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'United States business news', 'limit': 3}
+2025-09-19 15:18:08 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'United States business news', limit=3
+2025-09-19 15:18:08 | INFO | 🎯 Using direct query: 'United States business news'
+2025-09-19 15:18:08 | INFO | The size is
+2025-09-19 15:18:08 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:18:08 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'United States business news', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:18:10 | INFO | 📡 Response status: 200
+2025-09-19 15:18:10 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:18:10 | INFO | 📰 Parsed 100 articles from API
+2025-09-19 15:18:10 | INFO | 📅 Sorted 100 articles by date (most recent first)
+2025-09-19 15:18:10 | INFO | ✅ Converted 100 articles, sorted by date
+2025-09-19 15:18:10 | INFO | ✅ POST /api/v1/news/top - Found 100 stories
+2025-09-19 15:18:10 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=100
+2025-09-19 15:18:10 | INFO | 📰 Story 1: Trump tariffs live updates: TikTok in focus as Trump-Xi try to break trade deadlock | Source: Yahoo Finance | Published: 1 hour ago
+2025-09-19 15:18:10 | INFO | 📰 Story 2: US revokes visas for Indian executives over fentanyl allegations | Source: Al Jazeera | Published: 10 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 3: FedEx results top targets on cost-cutting, shares jump 5.5% after the bell | Source: Reuters | Published: 11 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 4: Hyundai CEO found out about ICE raid at Georgia battery plant on the news | Source: CNN | Published: 13 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 5: Northeast US states form health alliance in response to federal vaccine limits | Source: Reuters | Published: 13 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 6: US supreme court sets date to hear arguments on Trump’s tariffs | Source: The Guardian | Published: 17 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 7: UK State Visit Updates: Trump and Starmer Expected to Announce Big Business Deals | Source: The New York Times | Published: 17 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 8: US firms pledge £150bn investment in UK as tech deal signed | Source: BBC | Published: 20 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 9: US revokes visas for Indian business executives over fentanyl links | Source: Reuters | Published: 22 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 10: Nvidia will take a $5 billion stake in Intel, joining the US government as a major shareholder | Source: CNN | Published: 22 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 11: The Fed just cut rates. But relief might not come quickly enough for some Americans | Source: CNN | Published: 22 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 12: Annual Oncology Hospital Rankings Released: Which U.S. Centers Are World’s Best? | Source: Oncology News Central | Published: 23 hours ago
+2025-09-19 15:18:10 | INFO | 📰 Story 13: Samsung’s plan to challenge Apple in the next era of the smartphone wars is about to start | CNN Business | Source: CNN | Published: 1 day ago
+2025-09-19 15:18:10 | INFO | 📰 Story 14: Trump clashes with Australian journalist over business deals in office | Source: BBC | Published: 1 day ago
+2025-09-19 15:18:10 | INFO | 📰 Story 15: Swiss exports to US drop over a fifth after Trump tariffs | Source: Reuters | Published: 1 day ago
+2025-09-19 15:18:10 | INFO | 📰 Story 16: The pomp and pageantry ends as Trump's state visit gets down to business | Source: CNBC | Published: 1 day ago
+2025-09-19 15:18:10 | INFO | 📰 Story 17: Oracle stock rises as US, China agree to preliminary TikTok deal | Source: Yahoo Finance | Published: 2 days ago
+2025-09-19 15:18:10 | INFO | 📰 Story 18: Trump's UK visit brings flurry of trade announcements as US-India talk tariffs | Source: Yahoo Finance | Published: 2 days ago
+2025-09-19 15:18:10 | INFO | 📰 Story 19: Top 50 news websites in the US in August: Substack leads just five sites with year-on-year growth | Source: Press Gazette | Published: 4 days ago
+2025-09-19 15:18:10 | INFO | 📰 Story 20: How fast is the UK's economy growing and what is GDP? | Source: BBC | Published: 6 days ago
+2025-09-19 15:18:10 | INFO | 📰 Story 21: Australia, Japan join countries suspending some parcel shipments to the US | Source: Al Jazeera | Published: 3 weeks ago
+2025-09-19 15:18:10 | INFO | 📰 Story 22: Trump threatens tariffs on countries that ‘discriminate’ against US tech | Source: The Guardian | Published: 3 weeks ago
+2025-09-19 15:18:10 | INFO | 📰 Story 23: Trump's tariff push overstepped presidential powers, appeals court says | Source: NBC News | Published: 3 weeks ago
+2025-09-19 15:18:10 | INFO | 📰 Story 24: U.S. shoppers' orders canceled as world shuts down some American-bound shipments | Source: NBC News | Published: 3 weeks ago
+2025-09-19 15:18:10 | INFO | 📰 Story 25: Trump's latest Fed jab breeds more dismay than drama | Source: Reuters | Published: 3 weeks ago
+2025-09-19 15:18:10 | INFO | 📰 Story 26: Modular building startup Boxabl to list on Nasdaq in $3.5 billion SPAC deal | Source: Reuters | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 27: Trump's Brazil tariff rattles coffee market, could raise prices in US | Source: Reuters | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 28: 7 Best Pharmaceutical Stocks to Buy for Income | Investing | Source: US News Money | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 29: Donald Trump Tariffs News Highlights: US stocks up as market shrugs off tariff increases | Source: Times of India | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 30: Donald Trump Tariffs News Highlights: Trump warns of '1929-style Great Depression' if court rules against tariffs | Source: Times of India | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 31: Royal Mail and DHL halt some US deliveries over tariffs | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 32: Trump backs off higher tariffs for E.U. pharma and chips | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 33: Donald Trump backs down from 250% EU pharma tariff in deal | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 34: These Are the Best Full-Time MBA Programs at Public Schools | Source: U.S. News & World Report | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 35: Tariffs: US and China extend trade truce deadline for another 90 days | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 36: Good, mad and ugly: the US economy’s performance under Trump – in charts | Source: The Guardian | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 37: Trump’s tariffs replace diplomacy as other US tools of statecraft are discarded | Source: The Guardian | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 38: US in talks over 10% Intel stake, White House confirms | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 39: AtkinsRéalis says the slowdown in the United States is temporary | Source: thecanadianpressnews.ca | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 40: Global investors flock to ex-US markets for better growth, valuations | Source: Reuters | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 41: 2025-2026 US News & World Report Cancer Center Rankings | Source: Oncology News Central | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 42: Trump hikes India tariffs to 50% for buying Russian oil | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 43: Markets slump on tariffs and jobs data as Trump fires labor bureau statistics chief | Source: CNN | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 44: Trump tariffs kick in at highest rates since Great Depression | Source: CNN | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 45: New tariffs snap into effect, raising import taxes to highest level since Great Depression | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 46: New Poll: Americans Say the U.S. Is in a Leadership Crisis | Source: U.S. News & World Report | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 47: Analysis: China’s Economy and Its Influence on Global Markets | Source: U.S. Bank | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 48: U.S. takes 10% stake in Intel, Trump says | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:10 | INFO | 📰 Story 49: US consumer spending falls; tariff-related boost to inflation awaited | Source: Reuters | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 50: SPC Group eyes Texas location for new bakery plant | Source: Food Business News | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 51: Trump to extend key tariff deadline to Aug. 1 as he threatens new duties of up to 40% on certain countries | Source: NBC News | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 52: Coca-Cola dodges after Trump says soda will switch back to cane sugar | Source: NBC News | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 53: US tariff update fails to rattle global markets, and other finance news to know | Source: The World Economic Forum | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 54: Michigan climbs to No. 6 in CNBC ranking of top states for business | Source: Detroit Free Press | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 55: The Rule of Law is Key to Capitalism − Eroding it is Bad News for American Business | Source: UConn Today | Published: 2 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 56: Tariffs: US and China meet for trade talks in London | Source: BBC | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 57: US President Donald Trump says rare earths deal 'done' with China | Source: BBC | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 58: US court blocks Trump from imposing the bulk of his tariffs | Source: CNN | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 59: Trump-branded wireless service launches — with a gold phone | Source: NBC News | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 60: Japan's Nomura committed to growth of US business, CEO says | Source: Reuters | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 61: Trump mobile: Experts question claim gold phone can be made in US | Source: BBC | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 62: Apple stock sinks after Trump threatens 25% tariff if iPhones aren't made in the U.S. | Source: NBC News | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 63: What’s happening this week in economics? | Source: Deloitte | Published: 3 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 64: Trump tariffs prompt slump in shipments to US ports | International trade | Source: The Guardian | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 65: US-Canada border towns hit by Trump's trade war | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 66: India-US trade deal: India disputes Trump claim it will charge 'no tariffs' | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 67: UnitedHealthcare sued by shareholders over reaction to CEO's killing | Source: NBC News | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 68: Tariffs: Will a US-China deal foil India's factory ambitions? | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 69: Global stocks rally after US, China pause tariff war, but uncertainty remains | Source: Reuters | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 70: Trump tariffs: US president says foreign movies may be hit with 100% levies | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 71: Trump’s tariffs: ‘It feels like Covid 2.0. So many things are getting disrupted’ | Source: The Guardian | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 72: Wall Street stocks bounce back from Trump tariff losses | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 73: U.S. News Ranks the Best States for 2025 | Source: U.S. News & World Report | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 74: U.S. economy shrinks 0.3% in first quarter as Trump trade wars disrupt businesses | Source: AP News | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 75: These companies say they're investing more in U.S. manufacturing as tariffs go into effect | Source: CBS News | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 76: Dow jumps more than 1,100 points, S&P 500 rises 3% on China-U.S. temporary tariff cut: Live updates | Source: CNBC | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 77: Small Business Briefing on Tariffs: Expert Insights & Latest News | Source: U.S. Chamber of Commerce | Published: 4 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 78: Two more states ban food colors in schools | Source: Food Business News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 79: Tariffs News Highlights: Tariffs Send Wall Street Tumbling to Worst Day Since Pandemic | Source: The New York Times | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 80: U.S. added 228,000 jobs in March, beating forecasts, as economists warn of turbulence | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 81: Trump pauses reciprocal tariffs but hikes duties on China to 125% | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 82: Trump tariffs sow fears of trade wars, recession and a $2,300 iPhone | Source: Reuters | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 83: Uncertainty Over Tariffs Leads to Wild Swings in Markets | Source: The New York Times | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 84: April 2, 2025 - Liberation Day tariff announcements | Source: CNN | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 85: Markets Soar After Trump Backs Down on Tariffs | Source: The New York Times | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 86: Highlights from the US stock market: Stocks drop again as uncertainty reigns about Trump's tariffs | Source: AP News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 87: Retirees 'stunned' as market turmoil over tariffs shrinks their 401(k)s | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 88: Stock market highlights: S&P 500 soars 9.5% after Trump limits some tariffs | Source: AP News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 89: US stock markets rally as White House says there is ‘great optimism’ in the economy – as it happened | Tariffs | Source: The Guardian | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 90: 'A critical crossroads': Business leaders speak out against Trump's trade war with the world | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 91: Stocks fall after day of wild swings as markets digest Trump's tariff reality | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 92: Trump halts doubling of tariffs on Canadian metals after Ontario suspends electricity price hikes | Source: AP News | Published: 6 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 93: Which US states could be hit hardest by Trump’s Canada and Mexico tariffs? | Source: Al Jazeera | Published: 6 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 94: Trump says US will experience 'period of transition' when asked if economy could see a recession this year | Source: Fox Business | Published: 6 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 95: Apple will spend more than $500 billion in the U.S. over the next four years | Source: Apple | Published: 6 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 96: History Of CNBC | Source: Vocal | Published: 7 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 97: Small businesses struggle to find their footing one month into Trump 2.0 | Source: NBC News | Published: 7 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 98: Six big US banks quit net zero alliance before Trump inauguration | Source: The Guardian | Published: 8 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 99: Greenland to Trump: We’re Not for Sale but Let’s Talk Business | Source: The New York Times | Published: 8 months ago
+2025-09-19 15:18:10 | INFO | 📰 Story 100: Trump Will Bring Change for Business, Economy. Darden Experts Have Ideas. | Source: The University of Virginia | Published: 10 months ago
+2025-09-19 15:18:54 | INFO | 🔍 Raw POST body: {"limit": "5", "q": "United States business news"}
+2025-09-19 15:18:54 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'United States business news', 'limit': 5}
+2025-09-19 15:18:54 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'United States business news', limit=5
+2025-09-19 15:18:54 | INFO | 🎯 Using direct query: 'United States business news'
+2025-09-19 15:18:54 | INFO | The size is 5
+2025-09-19 15:18:54 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:18:54 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'United States business news', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:18:54 | INFO | 📡 Response status: 200
+2025-09-19 15:18:54 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:18:54 | INFO | 📰 Parsed 100 articles from API
+2025-09-19 15:18:54 | INFO | 📅 Sorted 100 articles by date (most recent first)
+2025-09-19 15:18:54 | INFO | ✅ Converted 100 articles, sorted by date
+2025-09-19 15:18:54 | INFO | ✅ POST /api/v1/news/top - Found 100 stories
+2025-09-19 15:18:54 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=100
+2025-09-19 15:18:54 | INFO | 📰 Story 1: Trump tariffs live updates: TikTok in focus as Trump-Xi try to break trade deadlock | Source: Yahoo Finance | Published: 1 hour ago
+2025-09-19 15:18:54 | INFO | 📰 Story 2: US revokes visas for Indian executives over fentanyl allegations | Source: Al Jazeera | Published: 10 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 3: FedEx results top targets on cost-cutting, shares jump 5.5% after the bell | Source: Reuters | Published: 11 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 4: Hyundai CEO found out about ICE raid at Georgia battery plant on the news | Source: CNN | Published: 13 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 5: Northeast US states form health alliance in response to federal vaccine limits | Source: Reuters | Published: 13 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 6: US supreme court sets date to hear arguments on Trump’s tariffs | Source: The Guardian | Published: 17 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 7: UK State Visit Updates: Trump and Starmer Expected to Announce Big Business Deals | Source: The New York Times | Published: 17 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 8: US firms pledge £150bn investment in UK as tech deal signed | Source: BBC | Published: 20 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 9: US revokes visas for Indian business executives over fentanyl links | Source: Reuters | Published: 22 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 10: Nvidia will take a $5 billion stake in Intel, joining the US government as a major shareholder | Source: CNN | Published: 22 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 11: The Fed just cut rates. But relief might not come quickly enough for some Americans | Source: CNN | Published: 22 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 12: Annual Oncology Hospital Rankings Released: Which U.S. Centers Are World’s Best? | Source: Oncology News Central | Published: 23 hours ago
+2025-09-19 15:18:54 | INFO | 📰 Story 13: Samsung’s plan to challenge Apple in the next era of the smartphone wars is about to start | CNN Business | Source: CNN | Published: 1 day ago
+2025-09-19 15:18:54 | INFO | 📰 Story 14: Trump clashes with Australian journalist over business deals in office | Source: BBC | Published: 1 day ago
+2025-09-19 15:18:54 | INFO | 📰 Story 15: Swiss exports to US drop over a fifth after Trump tariffs | Source: Reuters | Published: 1 day ago
+2025-09-19 15:18:54 | INFO | 📰 Story 16: The pomp and pageantry ends as Trump's state visit gets down to business | Source: CNBC | Published: 1 day ago
+2025-09-19 15:18:54 | INFO | 📰 Story 17: Oracle stock rises as US, China agree to preliminary TikTok deal | Source: Yahoo Finance | Published: 2 days ago
+2025-09-19 15:18:54 | INFO | 📰 Story 18: Trump's UK visit brings flurry of trade announcements as US-India talk tariffs | Source: Yahoo Finance | Published: 2 days ago
+2025-09-19 15:18:54 | INFO | 📰 Story 19: Top 50 news websites in the US in August: Substack leads just five sites with year-on-year growth | Source: Press Gazette | Published: 4 days ago
+2025-09-19 15:18:54 | INFO | 📰 Story 20: How fast is the UK's economy growing and what is GDP? | Source: BBC | Published: 6 days ago
+2025-09-19 15:18:54 | INFO | 📰 Story 21: Australia, Japan join countries suspending some parcel shipments to the US | Source: Al Jazeera | Published: 3 weeks ago
+2025-09-19 15:18:54 | INFO | 📰 Story 22: Trump threatens tariffs on countries that ‘discriminate’ against US tech | Source: The Guardian | Published: 3 weeks ago
+2025-09-19 15:18:54 | INFO | 📰 Story 23: Trump's tariff push overstepped presidential powers, appeals court says | Source: NBC News | Published: 3 weeks ago
+2025-09-19 15:18:54 | INFO | 📰 Story 24: U.S. shoppers' orders canceled as world shuts down some American-bound shipments | Source: NBC News | Published: 3 weeks ago
+2025-09-19 15:18:54 | INFO | 📰 Story 25: Trump's latest Fed jab breeds more dismay than drama | Source: Reuters | Published: 3 weeks ago
+2025-09-19 15:18:54 | INFO | 📰 Story 26: Modular building startup Boxabl to list on Nasdaq in $3.5 billion SPAC deal | Source: Reuters | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 27: Trump's Brazil tariff rattles coffee market, could raise prices in US | Source: Reuters | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 28: 7 Best Pharmaceutical Stocks to Buy for Income | Investing | Source: US News Money | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 29: Donald Trump Tariffs News Highlights: US stocks up as market shrugs off tariff increases | Source: Times of India | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 30: Donald Trump Tariffs News Highlights: Trump warns of '1929-style Great Depression' if court rules against tariffs | Source: Times of India | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 31: Royal Mail and DHL halt some US deliveries over tariffs | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 32: Trump backs off higher tariffs for E.U. pharma and chips | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 33: Donald Trump backs down from 250% EU pharma tariff in deal | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 34: These Are the Best Full-Time MBA Programs at Public Schools | Source: U.S. News & World Report | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 35: Tariffs: US and China extend trade truce deadline for another 90 days | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 36: Good, mad and ugly: the US economy’s performance under Trump – in charts | Source: The Guardian | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 37: Trump’s tariffs replace diplomacy as other US tools of statecraft are discarded | Source: The Guardian | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 38: US in talks over 10% Intel stake, White House confirms | Source: BBC | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 39: AtkinsRéalis says the slowdown in the United States is temporary | Source: thecanadianpressnews.ca | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 40: Global investors flock to ex-US markets for better growth, valuations | Source: Reuters | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 41: 2025-2026 US News & World Report Cancer Center Rankings | Source: Oncology News Central | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 42: Trump hikes India tariffs to 50% for buying Russian oil | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 43: Markets slump on tariffs and jobs data as Trump fires labor bureau statistics chief | Source: CNN | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 44: Trump tariffs kick in at highest rates since Great Depression | Source: CNN | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 45: New tariffs snap into effect, raising import taxes to highest level since Great Depression | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 46: New Poll: Americans Say the U.S. Is in a Leadership Crisis | Source: U.S. News & World Report | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 47: Analysis: China’s Economy and Its Influence on Global Markets | Source: U.S. Bank | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 48: U.S. takes 10% stake in Intel, Trump says | Source: NBC News | Published: 1 month ago
+2025-09-19 15:18:54 | INFO | 📰 Story 49: US consumer spending falls; tariff-related boost to inflation awaited | Source: Reuters | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 50: SPC Group eyes Texas location for new bakery plant | Source: Food Business News | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 51: Trump to extend key tariff deadline to Aug. 1 as he threatens new duties of up to 40% on certain countries | Source: NBC News | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 52: Coca-Cola dodges after Trump says soda will switch back to cane sugar | Source: NBC News | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 53: US tariff update fails to rattle global markets, and other finance news to know | Source: The World Economic Forum | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 54: Michigan climbs to No. 6 in CNBC ranking of top states for business | Source: Detroit Free Press | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 55: The Rule of Law is Key to Capitalism − Eroding it is Bad News for American Business | Source: UConn Today | Published: 2 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 56: Tariffs: US and China meet for trade talks in London | Source: BBC | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 57: US President Donald Trump says rare earths deal 'done' with China | Source: BBC | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 58: US court blocks Trump from imposing the bulk of his tariffs | Source: CNN | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 59: Trump-branded wireless service launches — with a gold phone | Source: NBC News | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 60: Japan's Nomura committed to growth of US business, CEO says | Source: Reuters | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 61: Trump mobile: Experts question claim gold phone can be made in US | Source: BBC | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 62: Apple stock sinks after Trump threatens 25% tariff if iPhones aren't made in the U.S. | Source: NBC News | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 63: What’s happening this week in economics? | Source: Deloitte | Published: 3 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 64: Trump tariffs prompt slump in shipments to US ports | International trade | Source: The Guardian | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 65: US-Canada border towns hit by Trump's trade war | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 66: India-US trade deal: India disputes Trump claim it will charge 'no tariffs' | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 67: UnitedHealthcare sued by shareholders over reaction to CEO's killing | Source: NBC News | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 68: Tariffs: Will a US-China deal foil India's factory ambitions? | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 69: Global stocks rally after US, China pause tariff war, but uncertainty remains | Source: Reuters | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 70: Trump tariffs: US president says foreign movies may be hit with 100% levies | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 71: Trump’s tariffs: ‘It feels like Covid 2.0. So many things are getting disrupted’ | Source: The Guardian | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 72: Wall Street stocks bounce back from Trump tariff losses | Source: BBC | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 73: U.S. News Ranks the Best States for 2025 | Source: U.S. News & World Report | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 74: U.S. economy shrinks 0.3% in first quarter as Trump trade wars disrupt businesses | Source: AP News | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 75: These companies say they're investing more in U.S. manufacturing as tariffs go into effect | Source: CBS News | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 76: Dow jumps more than 1,100 points, S&P 500 rises 3% on China-U.S. temporary tariff cut: Live updates | Source: CNBC | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 77: Small Business Briefing on Tariffs: Expert Insights & Latest News | Source: U.S. Chamber of Commerce | Published: 4 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 78: Two more states ban food colors in schools | Source: Food Business News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 79: Tariffs News Highlights: Tariffs Send Wall Street Tumbling to Worst Day Since Pandemic | Source: The New York Times | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 80: U.S. added 228,000 jobs in March, beating forecasts, as economists warn of turbulence | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 81: Trump pauses reciprocal tariffs but hikes duties on China to 125% | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 82: Trump tariffs sow fears of trade wars, recession and a $2,300 iPhone | Source: Reuters | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 83: Uncertainty Over Tariffs Leads to Wild Swings in Markets | Source: The New York Times | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 84: April 2, 2025 - Liberation Day tariff announcements | Source: CNN | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 85: Markets Soar After Trump Backs Down on Tariffs | Source: The New York Times | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 86: Highlights from the US stock market: Stocks drop again as uncertainty reigns about Trump's tariffs | Source: AP News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 87: Retirees 'stunned' as market turmoil over tariffs shrinks their 401(k)s | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 88: Stock market highlights: S&P 500 soars 9.5% after Trump limits some tariffs | Source: AP News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 89: US stock markets rally as White House says there is ‘great optimism’ in the economy – as it happened | Tariffs | Source: The Guardian | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 90: 'A critical crossroads': Business leaders speak out against Trump's trade war with the world | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 91: Stocks fall after day of wild swings as markets digest Trump's tariff reality | Source: NBC News | Published: 5 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 92: Trump halts doubling of tariffs on Canadian metals after Ontario suspends electricity price hikes | Source: AP News | Published: 6 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 93: Which US states could be hit hardest by Trump’s Canada and Mexico tariffs? | Source: Al Jazeera | Published: 6 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 94: Trump says US will experience 'period of transition' when asked if economy could see a recession this year | Source: Fox Business | Published: 6 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 95: Apple will spend more than $500 billion in the U.S. over the next four years | Source: Apple | Published: 6 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 96: History Of CNBC | Source: Vocal | Published: 7 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 97: Small businesses struggle to find their footing one month into Trump 2.0 | Source: NBC News | Published: 7 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 98: Six big US banks quit net zero alliance before Trump inauguration | Source: The Guardian | Published: 8 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 99: Greenland to Trump: We’re Not for Sale but Let’s Talk Business | Source: The New York Times | Published: 8 months ago
+2025-09-19 15:18:54 | INFO | 📰 Story 100: Trump Will Bring Change for Business, Economy. Darden Experts Have Ideas. | Source: The University of Virginia | Published: 10 months ago
+2025-09-19 15:21:28 | INFO | 🔍 Raw POST body: {"limit": "6", "q": "Spain political news"}
+2025-09-19 15:21:28 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain political news', 'limit': 6}
+2025-09-19 15:21:28 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain political news', limit=6
+2025-09-19 15:21:28 | INFO | 🎯 Using direct query: 'Spain political news'
+2025-09-19 15:21:28 | ERROR | ❌ POST /api/v1/news/top - Unexpected error: SerpAPIService.get_latest_news() got an unexpected keyword argument 'language'
+2025-09-19 15:21:49 | INFO | 🔍 Raw POST body: {"limit": "6", "q": "Spain political news"}
+2025-09-19 15:21:49 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'Spain political news', 'limit': 6}
+2025-09-19 15:21:49 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'Spain political news', limit=6
+2025-09-19 15:21:49 | INFO | 🎯 Using direct query: 'Spain political news'
+2025-09-19 15:21:49 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:21:49 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'Spain political news', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:21:50 | INFO | 📡 Response status: 200
+2025-09-19 15:21:50 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:21:50 | INFO | 📰 Parsed 98 articles from API
+2025-09-19 15:21:50 | INFO | 📅 Sorted 98 articles by date (most recent first)
+2025-09-19 15:21:50 | INFO | ✅ Converted 98 articles, sorted by date
+2025-09-19 15:21:50 | INFO | ✅ POST /api/v1/news/top - Found 98 stories
+2025-09-19 15:21:50 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=98
+2025-09-19 15:21:50 | INFO | 📰 Story 1: A new front in Spain’s political divide | Source: In Spain News | Published: 1 day ago
+2025-09-19 15:21:50 | INFO | 📰 Story 2: Op-ed: What my Spain Dialogue taught me about political neutrality | Source: The Huntington News | Published: 1 day ago
+2025-09-19 15:21:50 | INFO | 📰 Story 3: Last hour of political news, live | Sánchez boasts of the stability of his government and Feijóo tells him that "he would agree with Netyahu" to continue in power | Spain | Source: LNG in Northern BC | Published: 2 days ago
+2025-09-19 15:21:50 | INFO | 📰 Story 4: Spain’s Corruption Crisis: Brussels Loses Patience | Source: The Leader Newspaper Online | Published: 2 days ago
+2025-09-19 15:21:50 | INFO | 📰 Story 5: Spain's political class spars over chaotic Vuelta finale | Source: Yahoo News Malaysia | Published: 4 days ago
+2025-09-19 15:21:50 | INFO | 📰 Story 6: Spain's political class spars over chaotic Vuelta finale | Source: RFI | Published: 4 days ago
+2025-09-19 15:21:50 | INFO | 📰 Story 7: Spain’s PM calls for Israel to be banned from sports events after Gaza protests force end to Vuelta race | Source: The Guardian | Published: 4 days ago
+2025-09-19 15:21:50 | INFO | 📰 Story 8: Spain's political class spars over chaotic Vuelta finale | Source: Yahoo News | Published: 4 days ago
+2025-09-19 15:21:50 | INFO | 📰 Story 9: Sánchez under fire as blazes and scandals rage in Spain | Source: Euractiv | Published: 3 weeks ago
+2025-09-19 15:21:50 | INFO | 📰 Story 10: MULLINS IT OVER: Spain’s political scandals make Westminster’s sleaze look like small change, writes Charlie Mullins | Source: Olive Press News Spain | Published: 4 weeks ago
+2025-09-19 15:21:50 | INFO | 📰 Story 11: Council of Europe slams Spain over handling of political corruption | Source: Euractiv | Published: 1 month ago
+2025-09-19 15:21:50 | INFO | 📰 Story 12: Spain’s summer of CV-related resignations | Source: POLITICO.eu | Published: 1 month ago
+2025-09-19 15:21:50 | INFO | 📰 Story 13: Wave of fake credentials sparks political fallout in Spain | Source: France 24 | Published: 1 month ago
+2025-09-19 15:21:50 | INFO | 📰 Story 14: Bank of Spain’s Political Storm Rages On With Officials Exiting | Source: Bloomberg.com | Published: 1 month ago
+2025-09-19 15:21:50 | INFO | 📰 Story 15: Pedro Sánchez emphasises that, after two years in office, "Spain is moving forward with strength and in the best of directions: forward" | Source: La Moncloa | Published: 1 month ago
+2025-09-19 15:21:50 | INFO | 📰 Story 16: Spain political scandal: Prime Minister offers new measures to root out corruption | Source: Majorca Daily Bulletin | Published: 2 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 17: Spain’s People’s party hit by alleged multimillion cash-for-favours scandal | Source: The Guardian | Published: 2 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 18: Fresh blow for Spain’s scandal-plagued Sánchez | Source: POLITICO.eu | Published: 2 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 19: Spain's Sánchez fights for survival as crisis reaches fever pitch | Source: Euractiv | Published: 2 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 20: ‘The final countdown’: Spanish PM Pedro Sánchez fights for his political life | Spain | Source: The Guardian | Published: 2 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 21: The EU depends on Pedro Sanchez: if his government falls in Spain, Socialists may break with the EPP | Source: Eunews | Published: 2 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 22: Agreement protects sovereignty and economic security of Gibraltar | Source: GOV.UK | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 23: Some Puerto Ricans Want the Territory to Leave U.S. and Join Spain | Source: Fodors Travel Guide | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 24: Pedro Sánchez fights for his political life over corruption allegations | Source: The Times | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 25: Spanish Parliament erupts over Socialist party’s corruption case | Source: Euractiv | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 26: Spanish government rocked by leaked recordings scandal | Source: Euractiv | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 27: Sánchez corruption scandals are a godsend for Spanish far right | Source: POLITICO.eu | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 28: Spain's embattled PM Sánchez resists clamour for resignation | Source: BBC | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 29: Corruption scandals put Spain’s Sánchez under pressure to call snap elections | Source: POLITICO.eu | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 30: Spain's Sánchez sorry for corruption scandal as opposition calls for resignation | Source: BBC | Published: 3 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 31: Spain risks major fine from Eurovision Song Contest by persisting with political message | Source: Metro.co.uk | Published: 4 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 32: Spain halts controversial $7.5m deal to buy ammunition from Israeli company | Source: Al Jazeera | Published: 4 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 33: Spain cancels arms deal with Israel, but holds 1 billion euros in weapons contracts | Source: Haaretz | Published: 4 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 34: Madrid’s ‘Margaret Thatcher’: Let’s take the testosterone out of politics | Source: The Telegraph | Published: 6 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 35: Pedro Sánchez: "Spain is a better country today than it was six years ago, and in 2027 it will be even better than it is today" | Source: La Moncloa | Published: 8 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 36: Spanish government slams Partido Popular for breaking EU political consensus | Source: Euractiv | Published: 9 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 37: Three conservative sites to follow Spain’s political news in English | Source: Contando Estrelas | Published: 10 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 38: Spain braces for new storms as flooding disaster’s political fallout continues | Source: The Guardian | Published: 10 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 39: Spain’s political leaders turn on each other over flood catastrophe | Source: Financial Times | Published: 10 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 40: ‘There’s so much confrontation’: Valencians sick of political bickering after Spain’s floods | Source: The Guardian | Published: 10 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 41: Spain Tinkers With State TV in Political Brawl | Source: Bloomberg.com | Published: 10 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 42: Dispute over Spain's past domination of Mexico reveals domestic divisions | Source: VOA - Voice of America English News | Published: 11 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 43: Venezuela: Opposition candidate arrives in Spain after fleeing country | Source: BBC | Published: 12 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 44: Pedro Sánchez sets out his Government's six priorities for action: "Competitiveness, labour dignity, welfare state, housing, equality and peace" | Source: La Moncloa | Published: 12 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 45: Spain to grant asylum to Venezuelan opposition leader Edmundo Gonzalez | Source: Al Jazeera | Published: 12 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 46: Pedro Sánchez announces the new composition of the Government, which starts the year "with new ideas, the best teams and optimistic about the present and the future of Spain" | Source: La Moncloa | Published: 12 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 47: Data Centers Are Becoming a Political Tool for Spain’s Government | Source: Bloomberg.com | Published: 13 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 48: Catalan and Spanish political parties celebrate results in 2024 European elections | Source: Catalan News | Published: 15 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 49: Pedro Sánchez’s ‘letter to the citizens’ of Spain assessed by a political communications expert | Source: The Conversation | Published: 16 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 50: Spain’s PM Sanchez halts public duties amid wife’s corruption accusation | Source: Al Jazeera | Published: 16 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 51: Spain’s PM Pedro Sanchez to remain in office | Source: Al Jazeera | Published: 16 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 52: Pedro Sánchez: Spain's prime minister averts crisis but political schism could deepen | Source: BBC | Published: 16 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 53: Spain’s Socialists reach gov’t coalition deal with hard-left Sumar party | Source: Al Jazeera | Published: 22 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 54: Spain's king meets party leaders amid political impasse | Source: Seychelles News Agency | Published: 24 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 55: Catalonia profile | Source: BBC | Published: 24 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 56: Spain country profile | Source: BBC | Published: 24 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 57: ‘If election ends with far-right coalition, Spain will not be active at an EU level,’ says Spanish political scientist | Source: Channel 4 | Published: 25 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 58: Spain isn't bowing to the rise of the far-right in the EU. Why? | Source: Euronews.com | Published: 25 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 59: Spain at risk of political gridlock after conservative win falls short of toppling PM | Source: NBC News | Published: 25 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 60: Spain in ‘political limbo’ after election yields no clear winner | Source: Al Jazeera | Published: 25 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 61: Spain's political escape artist Pedro Sánchez has odds against him yet again in national election | Source: AP News | Published: 26 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 62: Human and civil rights in Spain | Source: Expatica | Published: 30 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 63: Spain profile - Timeline | Source: BBC | Published: 33 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 64: Spain: Former Catalan Parliament leaders’ political rights violated, say UN experts | Source: UN News | Published: 36 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 65: Spain and Mauritania boost bilateral relations at the highest political level | Source: La Moncloa | Published: 42 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 66: Sánchez stresses Spain"s support for Libya"s political process | Source: La Moncloa | Published: 51 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 67: Black candidate challenges political status quo in Spain | Source: AP News | Published: 52 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 68: UK-Gibraltar-Spain agreement: statement from the Foreign Secretary | Source: GOV.UK | Published: 56 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 69: Spain to monitor online fake news and give a ‘political response’ to disinformation campaigns | Source: EL PAÍS English | Published: 58 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 70: Spain averts political crisis, extends virus lockdown | Source: PBS | Published: 64 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 71: Spain's government and political system | Source: Expatica | Published: 65 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 72: Spain coalition talks: Sanchez wins Catalan support to form government | Source: BBC | Published: 68 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 73: Spanish election: Can another vote end the political deadlock? | Source: BBC | Published: 70 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 74: Vox breaks out of Spain’s political wilderness | Source: Financial Times | Published: 70 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 75: Europe and right-wing nationalism: A country-by-country guide | Source: BBC | Published: 70 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 76: Spain faces a widening political divide | Source: PBS | Published: 70 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 77: Catalonia crisis in 300 words | Source: BBC | Published: 71 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 78: Catalonia's bid for independence from Spain explained | Source: BBC | Published: 71 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 79: Catalonia crisis in 300 words | Source: BBC | Published: 71 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 80: Spain’s political paralysis | Source: myRepublica | Published: 76 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 81: Echo-chambers in online news consumption: Evidence from survey and navigation data in Spain | Source: reutersinstitute.politics.ox.ac.uk | Published: 76 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 82: Political Promises: The Manifesto Pledges of Spain’s Main Parties | Source: Bloomberg.com | Published: 76 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 83: Spain's political deadlock shows no signs of breaking | Source: CNBC | Published: 76 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 84: Spain’s Watergate: inside the corruption scandal that changed a nation | Source: The Guardian | Published: 78 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 85: Mariano Rajoy and the Spain political crisis: What we know | Source: Al Jazeera | Published: 87 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 86: News Media and Political Attitudes in France | Source: Pew Research Center | Published: 88 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 87: News Media and Political Attitudes in Sweden | Source: Pew Research Center | Published: 88 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 88: News Media and Political Attitudes in Italy | Source: Pew Research Center | Published: 88 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 89: News Media and Political Attitudes in Denmark | Source: Pew Research Center | Published: 88 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 90: News Media and Political Attitudes in Spain | Source: Pew Research Center | Published: 88 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 91: Catalonia: Spain celebrates National Day amid political turmoil | Source: BBC | Published: 95 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 92: Spain to begin suspension of Catalonia's political autonomy | Source: Australian Broadcasting Corporation | Published: 95 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 93: Spain’s socialists at war over political stalemate | Source: Financial Times | Published: 107 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 94: Spain's King Felipe calls new election amid political deadlock | Source: BBC | Published: 112 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 95: Spain election: Political uncertainty after split result | Source: BBC | Published: 116 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 96: Spain's political future uncertain after election | Source: BBC | Published: 116 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 97: Spain's new left-wing mayors promise end to corruption | Source: BBC | Published: 123 months ago
+2025-09-19 15:21:50 | INFO | 📰 Story 98: Pettit applies philosophy to politics in Spain | Source: Princeton University | Published: 212 months ago
+2025-09-19 15:27:06 | INFO | 🔍 Raw POST body: {"limit": "7", "q": "United States political news"}
+2025-09-19 15:27:06 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'United States political news', 'limit': 7}
+2025-09-19 15:27:06 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'United States political news', limit=7
+2025-09-19 15:27:06 | INFO | 🎯 Using direct query: 'United States political news'
+2025-09-19 15:27:06 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 15:27:06 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'United States political news', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 15:27:08 | INFO | 📡 Response status: 200
+2025-09-19 15:27:08 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results', 'serpapi_pagination']
+2025-09-19 15:27:08 | INFO | 📰 Parsed 100 articles from API
+2025-09-19 15:27:08 | INFO | 📅 Sorted 100 articles by date (most recent first)
+2025-09-19 15:27:08 | INFO | ✅ Converted 100 articles, sorted by date
+2025-09-19 15:27:08 | INFO | 📊 Returning 7 latest articles (size=7)
+2025-09-19 15:27:08 | INFO | ✅ POST /api/v1/news/top - Found 7 stories
+2025-09-19 15:27:08 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=7
+2025-09-19 15:27:08 | INFO | 📰 Story 1: Trump calls for US regulator to clamp down on critical media | Source: Al Jazeera | Published: 2 hours ago
+2025-09-19 15:27:08 | INFO | 📰 Story 2: What is antifa; what does Trump’s ‘major terrorist’ label mean? | Source: Al Jazeera | Published: 4 hours ago
+2025-09-19 15:27:08 | INFO | 📰 Story 3: US Senate approves 48 Trump nominees in a single vote | Source: Al Jazeera | Published: 4 hours ago
+2025-09-19 15:27:08 | INFO | 📰 Story 4: US seeking to regain control of Afghanistan’s Bagram airbase, says Trump | Source: The Guardian | Published: 7 hours ago
+2025-09-19 15:27:08 | INFO | 📰 Story 5: Trump returns to the U.S. after U.K. state visit | Source: NBC News | Published: 8 hours ago
+2025-09-19 15:27:08 | INFO | 📰 Story 6: Fact Check Team: Assassination of Charlie Kirk highlights rise in political violence | Source: WCIV | Published: 9 hours ago
+2025-09-19 15:27:08 | INFO | 📰 Story 7: At U.K. Leader’s Country House, Trump’s State Visit Gets a Little More Political | Source: The New York Times | Published: 13 hours ago
+2025-09-19 16:02:22 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "noticias provincia de Zamora"}
+2025-09-19 16:02:22 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias provincia de Zamora', 'limit': 3}
+2025-09-19 16:02:22 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias provincia de Zamora', limit=3
+2025-09-19 16:02:22 | INFO | 🎯 Using direct query: 'noticias provincia de Zamora'
+2025-09-19 16:02:22 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 16:02:22 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias provincia de Zamora', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 16:02:24 | INFO | 📡 Response status: 200
+2025-09-19 16:02:24 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results']
+2025-09-19 16:02:24 | INFO | 📰 Parsed 74 articles from API
+2025-09-19 16:02:24 | INFO | 📅 Sorted 74 articles by date (most recent first)
+2025-09-19 16:02:24 | INFO | ✅ Converted 74 articles, sorted by date
+2025-09-19 16:02:24 | INFO | 📊 Returning 3 latest articles (size=3)
+2025-09-19 16:02:24 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 16:02:24 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 16:02:24 | INFO | 📰 Story 1: La Diputación Provincia amplía el contrato de ayuda a domicilio en la provincia | Source: La Opinión de Zamora | Published: 23 minutes ago
+2025-09-19 16:02:24 | INFO | 📰 Story 2: Zamora muestra todo su potencial natural y turístico en la Feria Naturcyl en Segovia | Source: Zamora3punto0 | Published: 1 hour ago
+2025-09-19 16:02:24 | INFO | 📰 Story 3: 82.500 euros para autónomos afectados por incendios en estas localidades de Zamora | Source: La Opinión de Zamora | Published: 6 hours ago
+2025-09-19 16:03:22 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "noticias deportes provincia de Zamora"}
+2025-09-19 16:03:22 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias deportes provincia de Zamora', 'limit': 3}
+2025-09-19 16:03:22 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias deportes provincia de Zamora', limit=3
+2025-09-19 16:03:22 | INFO | 🎯 Using direct query: 'noticias deportes provincia de Zamora'
+2025-09-19 16:03:22 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 16:03:22 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias deportes provincia de Zamora', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 16:03:23 | INFO | 📡 Response status: 200
+2025-09-19 16:03:23 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results']
+2025-09-19 16:03:23 | INFO | 📰 Parsed 14 articles from API
+2025-09-19 16:03:23 | INFO | 📅 Sorted 14 articles by date (most recent first)
+2025-09-19 16:03:23 | INFO | ✅ Converted 14 articles, sorted by date
+2025-09-19 16:03:23 | INFO | 📊 Returning 3 latest articles (size=3)
+2025-09-19 16:03:23 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 16:03:23 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 16:03:23 | INFO | 📰 Story 1: La Federación avanza los horarios de la jornada 5 del Zamora CF | Source: Zamora24horas | Published: 4 days ago
+2025-09-19 16:03:23 | INFO | 📰 Story 2: Uno de cada cuatro zamoranos, sin vacaciones por la subida de precios | Source: La Opinión de Zamora | Published: 1 month ago
+2025-09-19 16:03:23 | INFO | 📰 Story 3: El avance de los incendios, en gráficos: el de Zamora es ya el peor de la historia | Source: El Confidencial | Published: 1 month ago
+2025-09-19 16:03:41 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "noticias generales provincia de Zamora"}
+2025-09-19 16:03:41 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias generales provincia de Zamora', 'limit': 3}
+2025-09-19 16:03:41 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias generales provincia de Zamora', limit=3
+2025-09-19 16:03:41 | INFO | 🎯 Using direct query: 'noticias generales provincia de Zamora'
+2025-09-19 16:03:41 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 16:03:41 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias generales provincia de Zamora', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 16:03:42 | INFO | 📡 Response status: 200
+2025-09-19 16:03:42 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results']
+2025-09-19 16:03:42 | INFO | 📰 Parsed 13 articles from API
+2025-09-19 16:03:42 | INFO | 📅 Sorted 13 articles by date (most recent first)
+2025-09-19 16:03:42 | INFO | ✅ Converted 13 articles, sorted by date
+2025-09-19 16:03:42 | INFO | 📊 Returning 3 latest articles (size=3)
+2025-09-19 16:03:42 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 16:03:42 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 16:03:42 | INFO | 📰 Story 1: Quién ganaría en la primera y la tercera sección electoral, según una encuesta | Source: Perfil | Published: 1 month ago
+2025-09-19 16:03:42 | INFO | 📰 Story 2: Cierre de listas en Buenos Aires en VIVO: se cumplió el plazo y el peronismo todavía no presentó sus candidatos | Source: Ambito | Published: 1 month ago
+2025-09-19 16:03:42 | INFO | 📰 Story 3: 🔴 Elecciones legislativas 2025: cierre de listas en PBA y las últimas noticias de Javier Milei, en vivo | Source: TN | Published: 1 month ago
+2025-09-19 16:04:06 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "noticias deportes Espa\u00f1a"}
+2025-09-19 16:04:06 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias deportes España', 'limit': 3}
+2025-09-19 16:04:06 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias deportes España', limit=3
+2025-09-19 16:04:06 | INFO | 🎯 Using direct query: 'noticias deportes España'
+2025-09-19 16:04:06 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 16:04:06 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias deportes España', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 16:04:08 | INFO | 📡 Response status: 200
+2025-09-19 16:04:08 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results']
+2025-09-19 16:04:08 | INFO | 📰 Parsed 75 articles from API
+2025-09-19 16:04:08 | INFO | 📅 Sorted 75 articles by date (most recent first)
+2025-09-19 16:04:08 | INFO | ✅ Converted 75 articles, sorted by date
+2025-09-19 16:04:08 | INFO | 📊 Returning 3 latest articles (size=3)
+2025-09-19 16:04:08 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 16:04:08 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 16:04:08 | INFO | 📰 Story 1: Raúl Asencio y exjugadores de Real Madrid enfrentarán juicio por difundir vídeos sexuales | Source: elsalvador.com | Published: 21 hours ago
+2025-09-19 16:04:08 | INFO | 📰 Story 2: ¿Universitario vs. Barcelona en el Monumental? Posibilidad de un partido amistoso en 2025 | Source: Depor | Published: 1 day ago
+2025-09-19 16:04:08 | INFO | 📰 Story 3: "Fin a años de éxitos": en España alertan distancia entre Manuel Pellegrini y Betis para su renovación | Source: BioBioChile | Published: 1 day ago
+2025-09-19 16:04:59 | INFO | 🔍 Raw POST body: {"limit": "3", "q": "noticias positivas mundo"}
+2025-09-19 16:04:59 | INFO | 📥 POST /api/v1/news/top - Incoming request: {'q': 'noticias positivas mundo', 'limit': 3}
+2025-09-19 16:04:59 | INFO | 🔍 POST /api/v1/news/top - Fetching stories with query: 'noticias positivas mundo', limit=3
+2025-09-19 16:04:59 | INFO | 🎯 Using direct query: 'noticias positivas mundo'
+2025-09-19 16:04:59 | INFO | 🔍 SerpAPI Request: https://serpapi.com/search.json
+2025-09-19 16:04:59 | INFO | 📋 Request params: {'engine': 'google_news_light', 'api_key': '8837b4e9643c10be88e99b279fee6264fdf34f2094d8fbff4444f8028b03d49d', 'q': 'noticias positivas mundo', 'num': 100, 'safe': 'active', 'hl': 'en', 'lr': 'lang_en', 'google_domain': 'google.com'}
+2025-09-19 16:05:00 | INFO | 📡 Response status: 200
+2025-09-19 16:05:00 | INFO | 📄 Response data keys: ['search_metadata', 'search_parameters', 'search_information', 'news_results']
+2025-09-19 16:05:00 | INFO | 📰 Parsed 48 articles from API
+2025-09-19 16:05:00 | INFO | 📅 Sorted 48 articles by date (most recent first)
+2025-09-19 16:05:00 | INFO | ✅ Converted 48 articles, sorted by date
+2025-09-19 16:05:00 | INFO | 📊 Returning 3 latest articles (size=3)
+2025-09-19 16:05:00 | INFO | ✅ POST /api/v1/news/top - Found 3 stories
+2025-09-19 16:05:00 | INFO | 📤 POST /api/v1/news/top - Response sent: success=True, total_count=3
+2025-09-19 16:05:00 | INFO | 📰 Story 1: "Es el mejor del mundo": el bar de tapas clásicas de Almería que tiene más de 700 reseñas | Source: La Voz de Almería | Published: 3 days ago
+2025-09-19 16:05:00 | INFO | 📰 Story 2: Buenas noticias para Graham y Serrajordi | Source: Mundo Deportivo | Published: 3 days ago
+2025-09-19 16:05:00 | INFO | 📰 Story 3: La Real Sociedad sigue recuperando efectivos pero aún espera a Kubo y Aramburu | Source: Mundo Deportivo | Published: 1 week ago

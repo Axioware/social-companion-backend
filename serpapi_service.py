@@ -75,7 +75,7 @@ class SerpAPIService:
             "engine": "google_news_light",
             "api_key": self.api_key,
             "q": f"{search_query}",
-            "num": min(size, 100),  # Cap at 100 as per API limits
+            "num": 100,  # Cap at 100 as per API limits
             "safe": "active"
         }
         
@@ -113,7 +113,10 @@ class SerpAPIService:
                         sorted_articles = self._sort_by_date(converted_articles)
                         logger.info(f"✅ Converted {len(converted_articles)} articles, sorted by date")
                         
-                        return sorted_articles
+                        limited_articles = sorted_articles[:size]
+                        logger.info(f"📊 Returning {len(limited_articles)} latest articles (size={size})")
+                        
+                        return limited_articles
                     else:
                         logger.warning(f"API returned status: {data.get('search_metadata', {}).get('status')}")
                         return []
